@@ -12,7 +12,7 @@ A simple server application built with [Echo](https://echo.labstack.com/), a hig
 
 To build:
 ```sh
-go build -ldflags "-X main.version=<version>"
+go build -ldflags "-X main.version=<version>" -o simple_server_v<version>
 ```
 
 To run:
