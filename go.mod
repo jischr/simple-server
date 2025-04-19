@@ -1,4 +1,4 @@
-module github.com/jischr/simple-worker
+module github.com/jischr/simple-server
 
 go 1.24.2
 
